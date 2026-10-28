@@ -2,6 +2,14 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&letterSpacing=&duration=4500&pause=500&color=9966CC&width=435&lines=Hello%2C+it's+Rodrigo+Baesa!;Software+Developer." alt="Typing SVG" />
 
+> <br>
+> Lost access to my old GitHub account, so this is my new home.
+> Check out my previous projects at <a href="https://github.com/RodrigoBaesa"><b>@RodrigoBaesa</b></a> 💜
+>
+> <a href="https://github.com/RodrigoBaesa"><img src="https://img.shields.io/badge/Old%20Account-RodrigoBaesa-9966CC?style=for-the-badge&logo=github&logoColor=white" alt="Old GitHub account"/></a>
+> <br>
+
+
 <img src="./assets/terminal_baesa.gif">
 
 ### Languages & Frameworks
